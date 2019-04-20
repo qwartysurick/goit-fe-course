@@ -1,0 +1,27 @@
+.chill{
+    width: 320px;
+    height:800 ;
+    outline :solid tomato;
+    text-align: center;
+}
+.DOG{
+    text-align: center;
+    font-size: 20px;
+    color: red;  
+}
+.qaq{
+    color: tomato;
+}
+.tat{
+    justify-content: center;
+    color: brown;
+}
+img:hover{
+    transform: scale(1,2) rotate(20deg);
+}
+button:hover{
+    transform: scale(1,5) rotate(30deg);
+}
+.DOG:hover{
+    transform: scale(1,9) rotate(50deg)
+}
